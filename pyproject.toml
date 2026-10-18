@@ -23,7 +23,7 @@ dependencies = []
 
 [project.urls]
 Homepage = "https://wiboonnissara.com"
-Source = "https://github.com/Deepsea1111/cti-confidence"
+Source = "https://github.com/DeepSeaX-labs/cti-confidence"
 
 [project.optional-dependencies]
 dev = ["pytest>=8"]

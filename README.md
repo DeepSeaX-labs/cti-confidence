@@ -17,7 +17,7 @@ Corroboration is counted by **independent origin**, so five aggregators republis
 single claim count as one piece of evidence rather than five.
 
 ```bash
-pip install git+https://github.com/Deepsea1111/cti-confidence
+pip install git+https://github.com/DeepSeaX-labs/cti-confidence
 ```
 
 Requires Python 3.11+. No runtime dependencies.
